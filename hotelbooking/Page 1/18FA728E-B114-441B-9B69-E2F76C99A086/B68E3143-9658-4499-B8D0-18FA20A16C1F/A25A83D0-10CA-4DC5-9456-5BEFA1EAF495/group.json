@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A25A83D0-10CA-4DC5-9456-5BEFA1EAF495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 222,
+    "width": 382,
+    "x": 16,
+    "y": 126
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2CEE4F28-6CED-4349-8D2D-6617ACC4F2B1"
+    },
+    {
+      "class": "bitmap",
+      "id": "58C89AE1-33CC-4765-A84C-712961DEA12B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D914DD7E-8CBC-46A5-98BD-8B3C61A558CA"
+    },
+    {
+      "class": "group",
+      "id": "04A897C2-7C8F-459A-BB14-76468935242D"
+    },
+    {
+      "class": "group",
+      "id": "65C04BE9-B97D-426A-856D-673A17DDDB9F"
+    },
+    {
+      "class": "text",
+      "id": "5D13EADD-AA34-482C-8047-DF76544DB03A"
+    },
+    {
+      "class": "group",
+      "id": "8C52E397-5716-4120-955D-0CCA2217F8F2"
+    },
+    {
+      "class": "text",
+      "id": "6E78C9DA-EE56-4731-A572-372E559C4882"
+    },
+    {
+      "class": "text",
+      "id": "86109A2A-EC5E-4F1E-A5F1-7A6AB37216C8"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Card 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FDA2DCAD-D0CD-4DF3-8FCD-EC865DC34661",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

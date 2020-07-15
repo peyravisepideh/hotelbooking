@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 896,
     "width": 414,
-    "x": 613,
-    "y": -331
+    "x": 80,
+    "y": 1064
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -172,6 +172,10 @@
     {
       "class": "rectangle",
       "id": "55077EDE-B4A6-41F1-A3E1-6C8081D84CF5"
+    },
+    {
+      "class": "oval",
+      "id": "EBCD385F-63AB-470E-B8A6-576B383B3582"
     }
   ],
   "maintainScrollPosition": false,

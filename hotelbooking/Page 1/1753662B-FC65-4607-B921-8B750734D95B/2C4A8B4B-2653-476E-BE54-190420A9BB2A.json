@@ -89,7 +89,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": true,
       "motionAngle": 0,
-      "radius": 1,
+      "radius": 2,
       "saturation": 1,
       "type": 3
     },

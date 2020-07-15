@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 91,
+  "changeIdentifier": 99,
   "clippingMaskMode": 0,
   "do_objectID": "EE544CA9-E48E-4EAF-970A-9F85EB9F5FF3",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,11 @@
   "name": "Outlined/UI/button_remove",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "96957FC1-740B-4F04-8E71-C882B929DD10_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

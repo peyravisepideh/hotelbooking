@@ -151,6 +151,10 @@
     {
       "class": "symbolInstance",
       "id": "234867FC-E1D0-4EBC-9B79-F93AC0DBCF88"
+    },
+    {
+      "class": "oval",
+      "id": "DA830BF7-6C6B-41D8-9D8A-1DDE7E28FB5B"
     }
   ],
   "maintainScrollPosition": false,

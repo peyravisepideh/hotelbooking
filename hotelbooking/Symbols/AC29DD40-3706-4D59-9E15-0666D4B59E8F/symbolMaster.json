@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 62,
+  "changeIdentifier": 65,
   "clippingMaskMode": 0,
   "do_objectID": "AC29DD40-3706-4D59-9E15-0666D4B59E8F",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,11 @@
   "name": "Outlined/UI/arrow_down",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "860E8437-724C-455A-A538-8AF15B35D247_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

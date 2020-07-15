@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 896,
     "width": 414,
-    "x": 1143,
+    "x": 614,
     "y": -331
   },
   "groupLayout": {
@@ -95,44 +95,92 @@
     },
     {
       "class": "group",
-      "id": "B26DEC73-A0C2-4E19-8A60-7CCE77DE61D2"
-    },
-    {
-      "class": "group",
-      "id": "EBEFFBFC-AFFE-4405-AD4C-1D30406B19F4"
-    },
-    {
-      "class": "group",
-      "id": "943A2322-BB00-4021-8E9D-B88884DAF513"
-    },
-    {
-      "class": "group",
-      "id": "27B4A0C7-8BB2-471F-8736-89BB89706FB7"
-    },
-    {
-      "class": "group",
-      "id": "E3F085C5-D198-4269-B74D-A2441492062D"
-    },
-    {
-      "class": "group",
-      "id": "699CB8A9-F039-41B9-849B-970B084DA631"
-    },
-    {
-      "class": "group",
-      "id": "1DD045AD-29F8-401A-B712-161065E11FF9"
-    },
-    {
-      "class": "group",
-      "id": "52220AD3-867A-4864-94A0-5A848D80CF98"
+      "id": "5A9B0748-D9D4-4FE3-953F-DF19474E505E"
     },
     {
       "class": "text",
-      "id": "F51CD43D-C0EC-4813-A1C7-3AE41419F0BE"
+      "id": "AE8F8CB6-73DA-40EC-9116-7916D140EB3F"
+    },
+    {
+      "class": "text",
+      "id": "7DCDDE16-4EF9-4180-8569-128031600259"
+    },
+    {
+      "class": "text",
+      "id": "8FB9E075-2E28-4677-8092-18B05E7A54E8"
+    },
+    {
+      "class": "text",
+      "id": "54A94001-D02B-47DE-87A4-9F3C52F2C67F"
+    },
+    {
+      "class": "text",
+      "id": "5A5BFCF0-A478-40C1-A8DC-3648922E76EF"
+    },
+    {
+      "class": "text",
+      "id": "FC6D687F-CA87-4F9E-A03E-17C5DB911C8E"
+    },
+    {
+      "class": "text",
+      "id": "B88B9154-7CB8-4897-9411-78781F060C1D"
+    },
+    {
+      "class": "text",
+      "id": "EEE41D22-B9A1-4996-99D0-EC98D600D025"
+    },
+    {
+      "class": "text",
+      "id": "3B0F7543-A1CA-4F70-B055-BC03BD9E82B3"
+    },
+    {
+      "class": "text",
+      "id": "A4D8976E-BEA2-4D97-AAF2-484A098D654D"
+    },
+    {
+      "class": "text",
+      "id": "35A1617E-A3A8-402C-813A-D72B882C8113"
+    },
+    {
+      "class": "text",
+      "id": "DD74A4AD-4446-4C3F-81F3-798D3B8B22DA"
+    },
+    {
+      "class": "text",
+      "id": "7BCA1B03-DAD2-48F9-813C-2DA6BEC634BF"
+    },
+    {
+      "class": "text",
+      "id": "084028D0-A05D-4F11-8CE0-BC2CFC586C20"
+    },
+    {
+      "class": "text",
+      "id": "365B8662-C650-4FCD-97EF-04121DD281B7"
+    },
+    {
+      "class": "text",
+      "id": "877C612F-8930-4879-8486-9F085782E077"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B4EECE1-B0E9-496F-B586-E2F2E0AD6747"
+    },
+    {
+      "class": "text",
+      "id": "A3BE7F29-CB98-45A9-844A-58CA72A8F5C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "85053C82-3526-4AAC-BA65-A93B56F2E12B"
+    },
+    {
+      "class": "group",
+      "id": "FF0B6F87-F15B-4569-9FA5-26C279B99C3B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "iPhone 11 Copy 2",
-  "nameIsFixed": false,
+  "name": "02.date",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 896,

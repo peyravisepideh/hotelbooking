@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18FA728E-B114-441B-9B69-E2F76C99A086",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 896,
+    "width": 414,
+    "x": 536,
+    "y": 1251
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B68E3143-9658-4499-B8D0-18FA20A16C1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "55678F6F-4677-4EC8-B3AE-B8190D27DC24"
+    },
+    {
+      "class": "rectangle",
+      "id": "D24AEAD7-6E31-49D3-AD23-8C2575A84783"
+    },
+    {
+      "class": "group",
+      "id": "E21D6E86-FB9E-4F3D-8323-DA52B50779A3"
+    },
+    {
+      "class": "group",
+      "id": "57ACA9C5-A97E-40B2-B9F0-9EC8386D595F"
+    },
+    {
+      "class": "group",
+      "id": "4C565134-39F9-4059-9BB4-00D1DB7D3E95"
+    },
+    {
+      "class": "text",
+      "id": "EBCE8B5E-9583-45AF-BC08-E138D2EB06AD"
+    },
+    {
+      "class": "text",
+      "id": "1E59BC8C-8AE6-4826-8BD3-CC73C4602E25"
+    },
+    {
+      "class": "text",
+      "id": "A9BA1DBE-E8D3-4A8E-9557-404C4D50E2FC"
+    },
+    {
+      "class": "text",
+      "id": "4CE80235-F454-4E9D-90E0-0534F8EBDA3B"
+    },
+    {
+      "class": "group",
+      "id": "5615CB7D-838B-4A1E-BBAC-871B4A368A42"
+    },
+    {
+      "class": "group",
+      "id": "F0ED63FB-B55D-4B64-9EFC-88E908E6C282"
+    },
+    {
+      "class": "group",
+      "id": "A6816ECA-CF17-49C2-91D1-9908ABE204EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "22222210-FA62-44F0-AEAC-0DA17733B749"
+    },
+    {
+      "class": "rectangle",
+      "id": "3175B303-DB91-482E-80BF-03C7D9647394"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBD83442-364A-4BC1-80C8-23BB2BC1C0C3"
+    },
+    {
+      "class": "group",
+      "id": "3BC8A891-EE59-4B6E-8C95-01200D4D58E5"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "04.Hotels.Filter",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4CA096F1-F27A-4AFA-9914-521986830BB9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

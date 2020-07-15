@@ -45,7 +45,23 @@
     },
     {
       "class": "artboard",
+      "id": "F37CBE81-7049-4721-B6F2-24DEC8FA692F"
+    },
+    {
+      "class": "artboard",
       "id": "1753662B-FC65-4607-B921-8B750734D95B"
+    },
+    {
+      "class": "artboard",
+      "id": "B59ABC11-1570-4A5B-B3B9-5AF87AC45FE5"
+    },
+    {
+      "class": "artboard",
+      "id": "18FA728E-B114-441B-9B69-E2F76C99A086"
+    },
+    {
+      "class": "artboard",
+      "id": "D10E2DD0-935D-41AE-AE9D-295497C2CDCE"
     }
   ],
   "maintainScrollPosition": false,
